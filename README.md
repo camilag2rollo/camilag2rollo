@@ -1,16 +1,21 @@
-### Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**camilag2rollo/camilag2rollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- meu nome é camila
+ 
+- estou estudando no [alura](https://www.alura.com.br)
+- estou no desenvolvimento na linguagem javascrpt
+- utilizo esse espaço para alinhar organizar e compartilhar dos meu projetos desenvolvidos  
 
-Here are some ideas to get you started:
+- ### você pode entrar em contato aqui
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 0000111961375sp@al.educacao.sp.gov.br📧
+
+
+
+![](https://media1.tenor.com/m/KtMnAwmpw8sAAAAC/pedro-monkey-puppet.gif)
+
+
+
+
+
+
